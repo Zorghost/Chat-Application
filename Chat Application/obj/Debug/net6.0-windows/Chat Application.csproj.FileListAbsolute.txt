@@ -1,0 +1,22 @@
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\bin\Debug\net6.0-windows\Chat Application.exe
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\bin\Debug\net6.0-windows\Chat Application.deps.json
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\bin\Debug\net6.0-windows\Chat Application.runtimeconfig.json
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\bin\Debug\net6.0-windows\Chat Application.dll
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\bin\Debug\net6.0-windows\Chat Application.pdb
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application.csproj.AssemblyReference.cache
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application_MarkupCompile.cache
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application_MarkupCompile.lref
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application.g.resources
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application.AssemblyInfoInputs.cache
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application.AssemblyInfo.cs
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application.csproj.CoreCompileInputs.cache
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application.dll
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\refint\Chat Application.dll
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application.pdb
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application.genruntimeconfig.cache
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\ref\Chat Application.dll
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
