@@ -9,10 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Themes\" />
     <Folder Include="Core\" />
     <Folder Include="Icons\" />
-    <Folder Include="MVVM\Model\" />
     <Folder Include="MVVM\View\" />
   </ItemGroup>
 

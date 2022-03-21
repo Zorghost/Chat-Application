@@ -20,3 +20,5 @@ C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Appli
 C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application.genruntimeconfig.cache
 C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\ref\Chat Application.dll
 C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Themes\ContactCard.baml
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\App.baml
