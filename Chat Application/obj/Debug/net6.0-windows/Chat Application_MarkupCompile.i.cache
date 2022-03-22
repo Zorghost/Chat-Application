@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\App.xaml
-2128708656
-
+3512839150
+4-467341185
 81385458045
 1941905061893
-MainWindow.xaml;Themes\ContactCard.xaml;
+MainWindow.xaml;Themes\ChatItem.xaml;Themes\ContactCard.xaml;
 
 False
 

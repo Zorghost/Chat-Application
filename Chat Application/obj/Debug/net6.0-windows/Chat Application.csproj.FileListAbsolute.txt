@@ -22,3 +22,9 @@ C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Appli
 C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Themes\ContactCard.baml
 C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\App.baml
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Themes\ChatItem.baml
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\obj\Debug\net6.0-windows\Chat Application_Content.g.cs
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\bin\Debug\net6.0-windows\Icons\camera.png
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\bin\Debug\net6.0-windows\Icons\phone-call.png
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\bin\Debug\net6.0-windows\Icons\plus.png
+C:\Users\Bedoui Ghofran\Desktop\Git\Chat Application\Chat Application\Chat Application\bin\Debug\net6.0-windows\Icons\send.png
